@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/RES_Img">
+        <file>wp10021077.jpg</file>
+        <file>openheimer_EDITED.jpg</file>
+        <file>spider_man_edited.jpg</file>
+        <file>avatar_edited.jpg</file>
+    </qresource>
+</RCC>
